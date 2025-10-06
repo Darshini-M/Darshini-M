@@ -1,6 +1,7 @@
 ![Darshini's Banner](./assets/darshini-banner.gif)
 <h1 align="center">Hi 👋, I'm Darshini</h1>
 <h3 align="center">A passionate Fullstack developer</h3>
+<image align="right" alt="coding" width="400" src="https://thumbs.dreamstime.com/b/modern-cartoon-illustration-woman-writing-software-code-developing-game-mobile-app-night-student-studying-316974289.jpg"></image>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshini-m&label=Profile%20views&color=0e75b6&style=flat" alt="darshini-m" /> </p>
 
